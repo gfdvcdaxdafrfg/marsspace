@@ -1,31 +1,13 @@
 body {
-    background-color: brown;
-}
+    background-color: green;
+ }
 
-.box {
-    background-color: gold;
-}
+ .main-box { 
+background-color: lightcoral;
+width: 400px;
+text-align: center;
+border-radius: 10px;
+padding: 2px 0px;
+margin: 20px auto;
 
-.card {
-    background-color: white;
-    width: 300px;
-    text-align: center;
-    border-radius: 10px;
-    padding: 20px 0px;
-}
-
-.title {
-    color: white;
-    text-align: center;
-    background-color: lightblue;
-    padding: 8px 0px;
-    border-radius: 10px;
-}
-
-.card-button {
-    background-color: black;
-    color: white;
-    border: none;
-    padding: 10px 0px;
-    border-radius: 8px;
-}
+ }
